@@ -1,0 +1,4 @@
+<resources>
+    <color name="button_light">#F5F5F5</color> <!-- Off-white/light gray -->
+    <color name="button_text">#000000</color>  <!-- Black text for contrast -->
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Numbers -->
+    <style name="CalcButtonNumber">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/number_btn</item>
+        <item name="android:backgroundTint">@null</item> <!-- Important -->
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_margin">4dp</item> <!-- Added margin for spacing -->
+    </style>
+
+    <!-- Operators (+ − × ÷ %) -->
+    <style name="CalcButtonOperator">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/operator_btn</item>
+        <item name="android:backgroundTint">@null</item> <!-- Important -->
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_margin">4dp</item> <!-- Added margin for spacing -->
+    </style>
+
+    <!-- Special Buttons (AC, =, ⌫, 🔄) -->
+    <style name="CalcButtonSpecial">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/special_btn</item>
+        <item name="android:backgroundTint">@null</item> <!-- Important -->
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_margin">4dp</item> <!-- Added margin for spacing -->
+    </style>
+
+</resources>

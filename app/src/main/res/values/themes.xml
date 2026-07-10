@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Button default color -->
+        <item name="colorPrimary">@color/button_light</item>
+        <item name="colorOnPrimary">@color/button_text</item>
+
+        <!-- Agar secondary button ya accent chahiye -->
+        <item name="colorSecondary">@color/button_light</item>
+        <item name="colorOnSecondary">@color/button_text</item>
+    </style>
+
+    <style name="Theme.SmartCalculator" parent="Base.Theme.SmartCalculator" />
+</resources>
