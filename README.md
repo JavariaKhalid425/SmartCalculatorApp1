@@ -40,3 +40,7 @@ While generative AI assisted in writing the syntax, this application's core arch
 - 🎨 Creating flexible UI states in XML that dynamically adapt to screen interactions.
 - 🤖 Mastering the iterative prompting lifecycle, prompt engineering, and code-auditing.
 
+## 📸 Screenshots
+
+All project screenshots are available in the **images** folder of this repository.
+
