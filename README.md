@@ -39,3 +39,4 @@ While generative AI assisted in writing the syntax, this application's core arch
 - 📐 Advanced string parsing and mathematical expression evaluation in Kotlin.
 - 🎨 Creating flexible UI states in XML that dynamically adapt to screen interactions.
 - 🤖 Mastering the iterative prompting lifecycle, prompt engineering, and code-auditing.
+
