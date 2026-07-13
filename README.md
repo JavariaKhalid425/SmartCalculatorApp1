@@ -41,6 +41,7 @@ While generative AI assisted in writing the syntax, this application's core arch
 - 🤖 Mastering the iterative prompting lifecycle, prompt engineering, and code-auditing.
 
 ## 📸 Project Preview & Screenshots
-<img width="1200" height="1500" alt="2" src="https://github.com/user-attachments/assets/b2057bb8-b7b9-4c24-8af8-80e963fde9ac" />
 <img width="1200" height="1500" alt="1" src="https://github.com/user-attachments/assets/c48c96b2-8a73-4138-84f0-4f273d4536bd" />
+<img width="1200" height="1500" alt="2" src="https://github.com/user-attachments/assets/b2057bb8-b7b9-4c24-8af8-80e963fde9ac" />
+
 
